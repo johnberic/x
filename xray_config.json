@@ -22,7 +22,7 @@
           "decryption":"none",
             "clients": [
                {
-                 "id": "xxxTknetworkxxx"
+                 "id": "xxxFirenetxxx"
 #vless
              }
           ]
@@ -41,7 +41,7 @@
       "settings": {
             "clients": [
                {
-                 "id": "xxxTknetworkxxx",
+                 "id": "xxxFirenetxxx",
                  "alterId": 0
 #vmess
              }
@@ -62,7 +62,7 @@
           "decryption":"none",
            "clients": [
               {
-                 "password": "TknetworkDev"
+                 "password": "FirenetDev"
 #trojanws
               }
           ],
@@ -83,7 +83,7 @@
            "clients": [
            {
            "method": "aes-128-gcm",
-          "password": "TknetworkDev"
+          "password": "FirenetDev"
 #ssws
            }
           ],
@@ -104,7 +104,7 @@
          "decryption":"none",
            "clients": [
              {
-               "id": "xxxTknetworkxxx"
+               "id": "xxxFirenetxxx"
 #vlessgrpc
              }
           ]
@@ -123,7 +123,7 @@
       "settings": {
             "clients": [
                {
-                 "id": "xxxTknetworkxxx",
+                 "id": "xxxFirenetxxx",
                  "alterId": 0
 #vmessgrpc
              }
@@ -144,7 +144,7 @@
           "decryption":"none",
              "clients": [
                {
-                 "password": "TknetworkDev"
+                 "password": "FirenetDev"
 #trojangrpc
                }
            ]
@@ -164,7 +164,7 @@
         "clients": [
           {
              "method": "aes-128-gcm",
-             "password": "TknetworkDev"
+             "password": "FirenetDev"
 #ssgrpc
            }
          ],
